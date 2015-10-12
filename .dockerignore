@@ -1,6 +1,5 @@
 # .dockerignore
 .git
-Dockerfile
 
 # Mix artifacts
 _build
